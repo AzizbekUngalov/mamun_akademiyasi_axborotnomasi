@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mamun akademiyasi axborotnomasi — 95-sahifa</title>
+  <style>
+    html, body { margin:0; height:100%; overflow:hidden; background:#111; }
+    .fallback { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; color:#fff; font:16px/1.5 system-ui; }
+    .fallback a { color:#8fd3ff; }
+  </style>
+</head>
+<body>
+  <!-- Asosiy: PDF 95-betdan -->
+  <embed src="mamun_akademiyasi_95.pdf#page=95"
+         type="application/pdf"
+         width="100%" height="100%">
+
+  <!-- Fallback: agar embed bloklansa -->
+  <div class="fallback">
+    <div>
+      <div>PDF’ni ko‘rsatib bo‘lmadi. Bu havolani bosing:</div>
+      <div><a href="mamun_akademiyasi_95.pdf#page=95" target="_blank" rel="noopener">mamun_akademiyasi_95.pdf (95-sahifa)</a></div>
+    </div>
+  </div>
+</body>
+</html>
